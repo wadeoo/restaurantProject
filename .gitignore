@@ -1,0 +1,23 @@
+# 忽略Java编译输出目录
+bin/
+target/
+
+# 忽略Eclipse IDE配置文件
+.settings/
+.classpath
+.project
+
+# 忽略Maven构建文件
+log/
+target/
+lib/
+src/main/resources/application.properties
+src/test/resources/application.properties
+.idea/
+.vscode/
+*.iml
+*.iws
+
+# 忽略一些系统自动生成的文件
+Thumbs.db
+.DS_Store
